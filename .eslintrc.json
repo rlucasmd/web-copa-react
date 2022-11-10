@@ -25,7 +25,7 @@
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off",
     "max-len": [
-      "error",
+      "off",
       {
         "code": 80
       }
